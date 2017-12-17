@@ -1,2 +1,2 @@
 # berightthere-webapi-csharp
-An ASP.NET web API server for receiving GPS coordinates
+A C# port of [mwvdev/berightthere](https://github.com/mwvdev/berightthere) made for learning more about C# and ASP.NET Core (particularly web API). This repository only contains a port of the REST API originally written using Spring Boot in Java.
